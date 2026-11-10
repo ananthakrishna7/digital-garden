@@ -8,7 +8,7 @@ configuration:
     provider: goatcounter
     websiteId: ananthakrishna7
   locale: en-US
-  baseUrl: ananthakrishna7.github.io
+  baseUrl: ananthakrishna7.github.io/digital-garden
   ignorePatterns:
     - private
     - templates
